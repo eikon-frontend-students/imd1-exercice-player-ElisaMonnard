@@ -1,14 +1,20 @@
 [
   {
-    "title": "Outer Wilds",
-    "artist": "Andrew Prahlow",
-    "src": "music/OuterWilds.mp3",
-    "cover": "covers/OuterWilds.jpg"
+    "title": "Complicated",
+    "artist": "Avril Lavign",
+    "src": "music/complicated.mp3",
+    "cover": "covers/avrilcover.png"
   },
   {
-    "title": "Gucci Gang",
-    "artist": "Lil Pump",
-    "src": "music/GucciGang.mp3",
-    "cover": "covers/GucciGang.png"
+    "title": "Born With A Broken Heart",
+    "artist": "Damiano David",
+    "src": "music/bornwithabrokenheart.mp3",
+    "cover": "covers/damianocover.png"
+  },
+  {
+    "title": "Zou Bisou Bisou",
+    "artist": "Gillian Hills",
+    "src": "music/zoubisoubisou.mp3",
+    "cover": "covers/zoualbum.png"
   }
 ]
